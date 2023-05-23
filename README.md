@@ -1,6 +1,6 @@
 Hello Developer! 
 
-This Sharepoint Helper LIB is a library that should sit in your project folder to assist with uploading and downloading files with sharepoint. 
+This Sharepoint Helper LIB is a library that should sit in your project folder to assist working with files on sharepoint REST API. 
 
 Currently it only uploads and downloads however, in future iterations we will add other CRUD functionalities. 
 
